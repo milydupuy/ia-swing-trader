@@ -1,0 +1,181 @@
+﻿Ticker,Nombre,Industria,Sector,Activo
+MMM,3M CO,Industrial,Industrial,SI
+ABT,ABBOTT LABORATORIES,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+ABBV,ABBVIE INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+ANF,ABERCROMBIE & FITCH CO-CL A,"Consumer, Cyclical","Consumer, Cyclical",SI
+ACN,ACCENTURE PLC,Technology,Technology,SI
+AGRO,ADECOAGRO SA,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+ADS,ADIDAS AG,"Consumer, Cyclical","Consumer, Cyclical",SI
+ADBE,ADOBE INC,Technology,Technology,SI
+AAP,ADVANCED AUTO PARTS INC,Financial,Financial,SI
+AMD,ADVANCED MICRO DEVICES,Technology,Technology,SI
+AEM,AGNICO EAGLE MINES LTD,Basic Materials,Basic Materials,SI
+GOOGL,ALPHABET INC-CL A,Communications,Communications,SI
+MO,ALTRIA GROUP INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+AMZN,AMAZON.COM INC,Communications,Communications,SI
+AXP,AMERICAN EXPRESS CO,Financial,Financial,SI
+AIG,AMERICAN INTERNATIONAL GROUP,Financial,Financial,SI
+AMGN,AMGEN INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+ADI,ANALOG DEVICES INC,Technology,Technology,SI
+AAPL,APPLE INC,Technology,Technology,SI
+AMAT,APPLIED MATERIALS INC,Technology,Technology,SI
+ARCO,ARCOS DORADOS HOLDINGS INC-A,"Consumer, Cyclical","Consumer, Cyclical",SI
+T,AT&T INC,Communications,Communications,SI
+ADP,AUTOMATIC DATA PROCESSING,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+AVY,AVERY DENNISON CORP,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+CAR,AVIS BUDGET GROUP INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+BAC,BANK OF AMERICA CORP,Financial,Financial,SI
+BK,BANK OF NEW YORK MELLON CORP,Financial,Financial,SI
+GOLD,BARRICK GOLD CORP,Basic Materials,Basic Materials,SI
+BAS GR,BASF SE,Basic Materials,Basic Materials,SI
+BAY GR,BAYER AG-REG,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+BRK/B,BERKSHIRE HATHAWAY INC-CL B,Financial,Financial,SI
+BIOX,BIOCERES CROP SOLUTIONS CORP,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+BIIB,BIOGEN INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+BB,BLACKBERRY LTD,Technology,Technology,SI
+XYZ,BLOCK INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+BA,BOEING CO/THE,Industrial,Industrial,SI
+BKNG,BOOKING HOLDINGS INC.,Communications,Communications,SI
+BMY,BRISTOL-MYERS SQUIBB CO,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+AVGO,BROADCOM INC,Technology,Technology,SI
+BG,BUNGE GLOBAL SA NPV,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+CAH,CARDINAL HEALTH INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+CCL,CARNIVAL CORP.,"Consumer, Cyclical","Consumer, Cyclical",SI
+CAT,CATERPILLAR INC,Industrial,Industrial,SI
+SCHW,CHARLES SCHWAB CORP.,Financial,Financial,SI
+CVX,CHEVRON CORP,Energy,Energy,SI
+CSCO,CISCO SYSTEMS INC,Communications,Communications,SI
+C,CITIGROUP INC,Financial,Financial,SI
+KO,COCA-COLA CO/THE,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+CDE,COEUR MINING INC,Basic Materials,Basic Materials,SI
+CL,COLGATE-PALMOLIVE CO,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+GLW,CORNING INC,Communications,Communications,SI
+CAAP,CORP AMERICA AIRPORTS SA,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+COST,COSTCO WHOLESALE CORP,"Consumer, Cyclical","Consumer, Cyclical",SI
+CVS,CVS HEALTH CORP.,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+DHR,DANAHER CORP.,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+BSN GR,DANONE,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+DE,DEERE & CO,Industrial,Industrial,SI
+DAL,DELTA AIR LINES INC.,"Consumer, Cyclical","Consumer, Cyclical",SI
+DESP,DESPEGAR.COM CORP,Communications,Communications,SI
+DOCU,DOCUSIGN INC,Technology,Technology,SI
+DD,DUPONT DE NEMOURS INC,Basic Materials,Basic Materials,SI
+EOAN GR,E.ON SE,Utilities,Utilities,SI
+EBAY,EBAY INC,Communications,Communications,SI
+LLY,ELI LILLY & CO,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+EFX,EQUIFAX INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+ETSY,ETSY INC,Communications,Communications,SI
+XOM,EXXON MOBIL CORP,Energy,Energy,SI
+FNMA,FANNIE MAE,Financial,Financial,SI
+FDX,FEDEX CORP,Industrial,Industrial,SI
+RACE,FERRARI NV,"Consumer, Cyclical","Consumer, Cyclical",SI
+FSLR,FIRST SOLAR INC,Energy,Energy,SI
+FMCC,FREDDIE MAC,Financial,Financial,SI
+FCX,FREEPORT-MCMORAN INC,Basic Materials,Basic Materials,SI
+GRMN,GARMIN LTD,Industrial,Industrial,SI
+GE,GE AEROSPACE,Industrial,Industrial,SI
+GPRK,GEOPARK LTD,Energy,Energy,SI
+GILD,GILEAD SCIENCES INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+GLOB,GLOBANT SA,Technology,Technology,SI
+GS,GOLDMAN SACHS GROUP INC,Financial,Financial,SI
+GT,GOODYEAR TIRE & RUBBER CO./THE,"Consumer, Cyclical","Consumer, Cyclical",SI
+HAL,HALLIBURTON CO,Energy,Energy,SI
+HOG,HARLEY-DAVIDSON INC,"Consumer, Cyclical","Consumer, Cyclical",SI
+HL,HECLA MINING CO,Basic Materials,Basic Materials,SI
+HSY,HERSHEY CO/THE,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+HD,HOME DEPOT INC,"Consumer, Cyclical","Consumer, Cyclical",SI
+HON,HONEYWELL INTERNATIONAL INC,Industrial,Industrial,SI
+HWM,HOWMET AEROSPACE INC,Industrial,Industrial,SI
+HPQ,HP INC,Technology,Technology,SI
+INTC,INTEL CORP,Technology,Technology,SI
+IP,INTERNATIONAL PAPER CO,Basic Materials,Basic Materials,SI
+IBM,INTL BUSINESS MACHINES CORP,Technology,Technology,SI
+IFF,INTL FLAVORS & FRAGRANCES,Basic Materials,Basic Materials,SI
+JNJ,JOHNSON & JOHNSON,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+JCI,JOHNSON CONTROLS INTERNATION,Industrial,Industrial,SI
+JPM,JPMORGAN CHASE & CO,Financial,Financial,SI
+KMB,KIMBERLY-CLARK CORP,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+KGC,KINROSS GOLD CORP,Basic Materials,Basic Materials,SI
+LVS,LAS VEGAS SANDS CORP,"Consumer, Cyclical","Consumer, Cyclical",SI
+LAC,LITHIUM AMERICAS CORP,Technology,Technology,SI
+LAR,LITHIUM ARGENTINA AG.,Basic Materials,Basic Materials,SI
+LMT,LOCKHEED MARTIN CORP,Industrial,Industrial,SI
+MMC,MARSH & MCLENNAN COS,Financial,Financial,SI
+MRVL,MARVELL TECHNOLOGY INC,Basic Materials,Basic Materials,SI
+MA,MASTERCARD INC - A,Financial,Financial,SI
+MCD,MCDONALD'S CORP,"Consumer, Cyclical","Consumer, Cyclical",SI
+MUX,MCEWEN MINING INC,Basic Materials,Basic Materials,SI
+MDT,MEDTRONIC PLC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+MELI,MERCADOLIBRE INC,Communications,Communications,SI
+MBG GR,MERCEDES-BENZ GROUP AG,"Consumer, Cyclical","Consumer, Cyclical",SI
+MRK,MERCK & CO. INC.,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+META,META PLATFORMS INC.,Communications,Communications,SI
+MSFT,MICROSOFT CORP,Technology,Technology,SI
+MRNA,MODERNA INC.,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+MDLZ,"MONDELEZ INTERNATIONAL, INC.","Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+MSI,MOTOROLA SOLUTIONS INC,Communications,Communications,SI
+NEC1 GR,NEC CORP,Technology,Technology,SI
+NFLX,NETFLIX INC,Communications,Communications,SI
+NEM,NEWMONT CORP,Basic Materials,Basic Materials,SI
+NXE,NEXGEN ENERGY LTD,Basic Materials,Basic Materials,SI
+NKE,NIKE INC -CL B,"Consumer, Cyclical","Consumer, Cyclical",SI
+NG,NOVAGOLD RESOURCES INC,Basic Materials,Basic Materials,SI
+NU,NU HOLDINGS LTD/CAYMAN ISLANDS,"Consumer, Cyclical","Consumer, Cyclical",SI
+NUE,NUCOR CORP,Basic Materials,Basic Materials,SI
+NVDA,NVIDIA CORP,Technology,Technology,SI
+ORCL,ORACLE CORP,Technology,Technology,SI
+PCAR,PACCAR INC,"Consumer, Cyclical","Consumer, Cyclical",SI
+PAGS,PAGSEGURO DIGITAL LTD,Technology,Technology,SI
+PLTR,PALANTIR TECHNOLOGIES INC,Technology,Technology,SI
+PAAS,PAN AMERICAN SILVER CORP,Basic Materials,Basic Materials,SI
+PYPL,PAYPAL HOLDINGS INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+PEP,PEPSICO INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+PFE,PFIZER INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+PM,PHILIP MORRIS INTERNATIONAL INC.,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+PSX,PHILLIPS 66,Energy,Energy,SI
+PINS,PINTEREST INC.,Communications,Communications,SI
+PBI,PITNEY BOWES INC,Technology,Technology,SI
+PG,PROCTER & GAMBLE CO/THE,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+QCOM,QUALCOMM INC,Technology,Technology,SI
+RIOT,RIOT PLATFORMS INC.,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+ROKU,ROKU INC.,Communications,Communications,SI
+ROST,ROSS STORES INC,"Consumer, Cyclical","Consumer, Cyclical",SI
+RTX,RTX CORPORATION,Industrial,Industrial,SI
+CRM,SALESFORCE INC,Technology,Technology,SI
+SLB,SCHLUMBERGER LTD,Energy,Energy,SI
+SHPWQ,SHAPEWAYS HOLDINGS INC,Communications,Communications,SI
+SHOP,SHOPIFY INC - CLASS A,Communications,Communications,SI
+SWKS,SKYWORKS SOLUTIONS INC.,Technology,Technology,SI
+SNAP,SNAP INC - A,Communications,Communications,SI
+SNA,SNAP-ON INC,Industrial,Industrial,SI
+SNOW,SNOWFLAKE INC-CLASS A,Technology,Technology,SI
+SCCO,SOUTHERN COPPER CORP,Basic Materials,Basic Materials,SI
+SPOT,SPOTIFY TECHNOLOGY SA,Communications,Communications,SI
+SBUX,STARBUCKS CORP,"Consumer, Cyclical","Consumer, Cyclical",SI
+STLA,STELLANTIS NV,"Consumer, Cyclical","Consumer, Cyclical",SI
+STNE,STONECO LTD,Financial,Financial,SI
+SDA,SUNCAR TECHNOLOGY GROUP INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+SYY,SYSCO CORP,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+TMUS,T-MOBILE US INC.,Communications,Communications,SI
+TGT,TARGET CORP,"Consumer, Cyclical","Consumer, Cyclical",SI
+TSLA,TESLA INC,"Consumer, Cyclical","Consumer, Cyclical",SI
+TXN,TEXAS INSTRUMENTS INC,Technology,Technology,SI
+TMO,THERMO FISHER SCIENTIFIC INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+TRV,TRAVELERS COS INC/THE,Financial,Financial,SI
+TRIP,TRIPADVISOR INC,Communications,Communications,SI
+UNP,UNION PACIFIC CORP,Industrial,Industrial,SI
+X,UNITED STATES STEEL CORP,Basic Materials,Basic Materials,SI
+UNH,UNITEDHEALTH GROUP INC,"Consumer, Non-cyclical","Consumer, Non-cyclical",SI
+URBN,URBAN OUTFITTERS INC,"Consumer, Cyclical","Consumer, Cyclical",SI
+USB,US BANCORP,Financial,Financial,SI
+VRSN,VERISIGN INC,Communications,Communications,SI
+VZ,VERIZON COMMUNICATIONS INC,Communications,Communications,SI
+SPCE,VIRGIN GALACTIC HOLDINGS INC.,"Consumer, Cyclical","Consumer, Cyclical",SI
+V,VISA INC-CLASS A SHARES,Financial,Financial,SI
+WBA,WALGREENS BOOTS ALLIANCE INC,"Consumer, Cyclical","Consumer, Cyclical",SI
+WMT,WALMART INC,"Consumer, Cyclical","Consumer, Cyclical",SI
+DIS,WALT DISNEY CO/THE,Communications,Communications,SI
+WFC,WELLS FARGO & CO,Financial,Financial,SI
+XRX,XEROX HOLDINGS CORP,Technology,Technology,SI
+YELP,YELP INC,Communications,Communications,SI
+ZM,"ZOOM COMMUNICATIONS, INC",Technology,Technology,SI

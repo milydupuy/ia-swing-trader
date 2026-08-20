@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secretos
+.env
+.streamlit/secrets.toml
+
+# Archivos personales / cartera
+cartera.csv
+vendidas.csv
+ventas.csv
+
+# Programas que no necesita la app
+acciones.py
+actualizar_cedears.py
+analizar_empresa.py
+backtesting.py
+calculos_cartera.py
+cartera.py
+compras.py
+conclusion.py
+decision.py
+decision_venta.py
+ejecutar_scanner.py
+empresa.py
+empresas.py
+estadisticas.py
+historial.py
+limpiar_cartera.py
+main.py
+menu.py
+menu_cartera.py
+mercado.py
+mi_cartera.py
+posicion.py
+precios_iol.py
+probar_cartera.py
+probar_iol.py
+probar_posicion.py
+probar_precios.py
+probar_riesgo.py
+probar_sp500.py
+probar_universo.py
+ranking.py
+riesgo.py
+sectores.py
+sp500.py
+universo_empresas.csv
+ventas.py
+ver_cartera.py
